@@ -1,0 +1,7 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'drinkingfromthestream-gradle'
+include 'scst-source'
