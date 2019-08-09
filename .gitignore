@@ -24,6 +24,7 @@ hs_err_pid*
 
 #Gradle
 .gradle
+/scst-source/build
 /build/
 .idea
 bin
