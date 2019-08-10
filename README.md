@@ -9,5 +9,5 @@ This was to teach myself how to work with Gradle submodules and get a closer loo
 - [ ] Add sink submodule to repo  
 - [ ] Add processor submodule to repo 
 - [ ] Refactor to use application.properties for some of the values
-- [ ] Create necessary Docker file
+- [X] Create necessary Dockerfile(s)
 - [ ] Create docker compose files to start everything
