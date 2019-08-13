@@ -5,3 +5,5 @@ pluginManagement {
 }
 rootProject.name = 'drinkingfromthestream-gradle'
 include 'scst-source'
+include 'scst-sink'
+
