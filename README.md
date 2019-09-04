@@ -7,7 +7,7 @@ This was to teach myself how to work with Gradle submodules and get a closer loo
 ## ToDo List 
 - [X] Add source submodule to repo 
 - [X] Add sink submodule to repo  
-- [ ] Add processor submodule to repo 
+- [X] Add processor submodule to repo 
 - [ ] Refactor to use application.properties for some of the values
 - [X] Create necessary Dockerfile(s)
-- [ ] Create docker compose files to start everything
+- [X] Create docker compose files to start everything
