@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Value;
 @RefreshScope
 @Slf4j
 class CoffeeGenerator {
-    @Value("${names:a,b,c,d,e,f}")
+    @Value("${coffee.types}")
     private String[] names;
 
     private final Random rnd = new Random();
