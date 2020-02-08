@@ -3,8 +3,8 @@ allprojects {
 
 	buildscript{
 		ext{
-			springBootVersion = '2.1.9.RELEASE'
-			springCloudVersion = 'Greenwich.SR3'
+			springBootVersion = '2.2.4.RELEASE'
+			springCloudVersion = 'Hoxton.SR1'
 		}
 		repositories{
 			mavenCentral()
