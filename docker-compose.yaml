@@ -26,7 +26,8 @@ services:
       dockerfile: scst-sink-Dockerfile
     environment:
       SPRING_CLOUD_STREAM_KAFKA_BINDER_BROKERS: kafka:9092
-
+    depends_on:
+      - kafka 
   kafka:
     image: confluentinc/cp-kafka:5.0.0
     environment:
