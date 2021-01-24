@@ -5,7 +5,7 @@ allprojects {
 
 	buildscript{
 		ext{
-			springBootVersion = '2.3.6.RELEASE'
+			springBootVersion = '2.3.8.RELEASE'
 			springCloudVersion = 'Hoxton.SR9'
 		}
 		repositories{
